@@ -1,6 +1,0 @@
-0	00:35:59.570	Expert redis XAUUSD,M1: loaded successfully
-0	00:35:59.570	redis XAUUSD,M1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; timezone=+02:00; 
-0	00:36:06.878	redis XAUUSD,M1: Mt4Redis Error: Попытка объединить диск с папкой на объединенном диске.
-3	00:36:06.878	redis XAUUSD,M1: initialization failed (1)
-0	00:36:06.878	redis XAUUSD,M1: uninit reason 8
-0	00:36:06.878	Expert redis XAUUSD,M1: removed
