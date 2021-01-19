@@ -46,7 +46,7 @@ public:
    bool              select(int db);
    string            ping(void);
    string            echo(string msg);
-   bool              quit(void);
+   void              quit(void);
   };
 //+------------------------------------------------------------------+
 //|                                                                  |
@@ -90,6 +90,7 @@ RedisReply *RedisBase::basicCommand(string command)
      {
       throw(reply.getString());
       delete reply;
+      Print(getErrorMessage());
       return NULL;
      }
 
@@ -210,8 +211,14 @@ string RedisBase::echo(string msg)
 //| Tell the server to disconnect this client after return           |
 //| After this command, the context is no longer usable              |
 //+------------------------------------------------------------------+
-bool RedisBase::quit(void)
+void RedisBase::quit(void)
   {
-   return statusCommand("quit");
+   if(CheckPointer(m_context)==POINTER_DYNAMIC)
+     {
+      m_context.disconnect();
+      delete m_context;
+     }
+
+   //return statusCommand("quit");
   }
 //+------------------------------------------------------------------+

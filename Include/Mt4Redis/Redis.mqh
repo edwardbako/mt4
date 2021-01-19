@@ -109,6 +109,18 @@ public:
      }
    long              hstrlen(const string key,const string field)
      {return integerCommand(StringFormat("hstrlen %s %s",key,field));}
+   
+   //--- list
+   string            lindex(const string key, const int index)
+      {return stringCommand(StringFormat("lindex %s %d",key,index));}
+   long              lpush(const string key, const string element)
+      {return integerCommand(StringFormat("lpush %s %s",key,element));}
+   string            lset(const string key, const int index, const string element)
+      {return stringCommand(StringFormat("lset %s %d %s",key,index,element));}     
+   string            lpop(const string key)
+      {return stringCommand("lpop "+key);}
+   long              llen(const string key)
+      {return integerCommand("llen "+key);}   
   };
 //+------------------------------------------------------------------+
 //| Redis super set command. No need for setnx setex psetex          |

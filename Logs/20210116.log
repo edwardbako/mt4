@@ -1,0 +1,12 @@
+0	00:00:33.450	redis XAUUSD,M1: uninit reason 2
+0	00:00:33.465	Expert redis XAUUSD,M1: removed
+0	00:00:33.465	Expert redis XAUUSD,M1: loaded successfully
+0	00:00:33.544	redis XAUUSD,M1: Redis context created: #[181898760]
+0	00:00:33.544	redis XAUUSD,M1: Command ##SELECT 0## status: OK
+0	00:00:33.637	redis XAUUSD,M1: Push one more order to Redis
+0	00:00:33.637	redis XAUUSD,M1: Push one more order to Redis
+0	00:00:33.637	redis XAUUSD,M1: Push one more order to Redis
+0	00:00:33.637	redis XAUUSD,M1: Push one more order to Redis
+0	00:00:33.637	redis XAUUSD,M1: initialized
+0	00:08:16.036	redis XAUUSD,M1: uninit reason 9
+0	00:08:16.646	Expert redis XAUUSD,M1: removed

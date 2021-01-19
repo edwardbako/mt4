@@ -1,0 +1,643 @@
+0	02:24:48.857	Expert redis XAUUSD,M1: loaded successfully
+0	02:24:48.857	redis XAUUSD,M1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; timezone=+02:00; 
+0	02:24:53.934	redis XAUUSD,M1: Redis context created: #[52502944]
+0	02:24:53.934	redis XAUUSD,M1: Command ##SELECT 0## status: OK
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :1 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :2 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :3 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :4 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :5 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :6 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :7 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :8 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :9 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :10 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :11 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :12 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :13 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :14 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :15 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :16 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :17 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :18 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :19 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :20 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :21 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :22 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :23 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :24 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :25 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :26 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :27 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :28 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :29 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :30 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :31 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :32 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :33 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :34 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :35 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :36 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :37 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :38 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :39 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :40 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :41 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :42 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :43 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :44 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :45 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :46 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :47 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :48 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :49 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :50 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :51 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :52 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :53 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :54 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :55 items
+0	02:24:54.021	redis XAUUSD,M1: Already pushed :56 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :57 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :58 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :59 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :60 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :61 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :62 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :63 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :64 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :65 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :66 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :67 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :68 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :69 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :70 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :71 items
+0	02:24:54.037	redis XAUUSD,M1: Already pushed :72 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :73 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :74 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :75 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :76 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :77 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :78 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :79 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :80 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :81 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :82 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :83 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :84 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :85 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :86 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :87 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :88 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :89 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :90 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :91 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :92 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :93 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :94 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :95 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :96 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :97 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :98 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :99 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :100 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :101 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :102 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :103 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :104 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :105 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :106 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :107 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :108 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :109 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :110 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :111 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :112 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :113 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :114 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :115 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :116 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :117 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :118 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :119 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :120 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :121 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :122 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :123 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :124 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :125 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :126 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :127 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :128 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :129 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :130 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :131 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :132 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :133 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :134 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :135 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :136 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :137 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :138 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :139 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :140 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :141 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :142 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :143 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :144 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :145 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :146 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :147 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :148 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :149 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :150 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :151 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :152 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :153 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :154 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :155 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :156 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :157 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :158 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :159 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :160 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :161 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :162 items
+0	02:24:54.040	redis XAUUSD,M1: Already pushed :163 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :164 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :165 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :166 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :167 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :168 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :169 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :170 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :171 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :172 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :173 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :174 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :175 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :176 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :177 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :178 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :179 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :180 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :181 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :182 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :183 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :184 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :185 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :186 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :187 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :188 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :189 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :190 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :191 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :192 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :193 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :194 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :195 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :196 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :197 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :198 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :199 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :200 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :201 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :202 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :203 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :204 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :205 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :206 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :207 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :208 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :209 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :210 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :211 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :212 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :213 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :214 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :215 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :216 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :217 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :218 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :219 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :220 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :221 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :222 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :223 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :224 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :225 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :226 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :227 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :228 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :229 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :230 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :231 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :232 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :233 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :234 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :235 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :236 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :237 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :238 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :239 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :240 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :241 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :242 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :243 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :244 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :245 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :246 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :247 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :248 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :249 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :250 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :251 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :252 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :253 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :254 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :255 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :256 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :257 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :258 items
+0	02:24:54.056	redis XAUUSD,M1: Already pushed :259 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :260 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :261 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :262 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :263 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :264 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :265 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :266 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :267 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :268 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :269 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :270 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :271 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :272 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :273 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :274 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :275 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :276 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :277 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :278 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :279 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :280 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :281 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :282 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :283 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :284 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :285 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :286 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :287 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :288 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :289 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :290 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :291 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :292 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :293 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :294 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :295 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :296 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :297 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :298 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :299 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :300 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :301 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :302 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :303 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :304 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :305 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :306 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :307 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :308 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :309 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :310 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :311 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :312 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :313 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :314 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :315 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :316 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :317 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :318 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :319 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :320 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :321 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :322 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :323 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :324 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :325 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :326 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :327 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :328 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :329 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :330 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :331 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :332 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :333 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :334 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :335 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :336 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :337 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :338 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :339 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :340 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :341 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :342 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :343 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :344 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :345 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :346 items
+0	02:24:54.072	redis XAUUSD,M1: Already pushed :347 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :348 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :349 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :350 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :351 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :352 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :353 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :354 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :355 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :356 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :357 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :358 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :359 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :360 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :361 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :362 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :363 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :364 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :365 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :366 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :367 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :368 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :369 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :370 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :371 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :372 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :373 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :374 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :375 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :376 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :377 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :378 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :379 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :380 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :381 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :382 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :383 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :384 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :385 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :386 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :387 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :388 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :389 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :390 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :391 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :392 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :393 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :394 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :395 items
+0	02:24:54.088	redis XAUUSD,M1: Already pushed :396 items
+0	02:24:54.088	redis XAUUSD,M1: Push one more order to Redis
+0	02:24:54.088	redis XAUUSD,M1: Push one more order to Redis
+0	02:24:54.088	redis XAUUSD,M1: Push one more order to Redis
+0	02:24:54.088	redis XAUUSD,M1: Push one more order to Redis
+0	02:24:54.088	redis XAUUSD,M1: initialized
+0	02:30:01.968	redis XAUUSD,M1: uninit reason 2
+0	02:30:01.968	Expert redis XAUUSD,M1: removed
+0	02:30:01.983	Expert redis XAUUSD,M1: loaded successfully
+0	02:30:02.500	redis XAUUSD,M1: Redis context created: #[52503264]
+0	02:30:02.500	redis XAUUSD,M1: Command ##SELECT 0## status: OK
+0	02:30:02.593	redis XAUUSD,M1: Push one more order to Redis
+0	02:30:02.593	redis XAUUSD,M1: Push one more order to Redis
+0	02:30:02.593	redis XAUUSD,M1: Push one more order to Redis
+0	02:30:02.593	redis XAUUSD,M1: Push one more order to Redis
+0	02:30:02.593	redis XAUUSD,M1: initialized
+0	02:44:42.707	redis XAUUSD,M1: uninit reason 2
+0	02:44:42.707	Expert redis XAUUSD,M1: removed
+0	02:44:42.722	Expert redis XAUUSD,M1: loaded successfully
+0	02:44:42.768	redis XAUUSD,M1: Redis context created: #[52500064]
+0	02:44:42.768	redis XAUUSD,M1: Command ##SELECT 0## status: OK
+0	02:44:42.880	redis XAUUSD,M1: Push one more order to Redis
+0	02:44:42.880	redis XAUUSD,M1: Push one more order to Redis
+0	02:44:42.880	redis XAUUSD,M1: Push one more order to Redis
+0	02:44:42.880	redis XAUUSD,M1: Push one more order to Redis
+0	02:44:42.880	redis XAUUSD,M1: initialized
+0	02:44:46.975	redis XAUUSD,M1: uninit reason 3
+0	02:44:47.257	redis XAUUSD,H1: Redis context created: #[52501344]
+0	02:44:47.257	redis XAUUSD,H1: Command ##SELECT 0## status: OK
+0	02:44:47.381	redis XAUUSD,H1: Already pushed :1 items
+0	02:44:47.381	redis XAUUSD,H1: initialized
+0	17:28:42.701	redis XAUUSD,H1: uninit reason 1
+0	17:28:42.732	Expert redis XAUUSD,H1: removed
+0	17:28:42.810	Expert account XAUUSD,H1: loaded successfully
+0	17:28:44.606	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	17:28:44.623	account XAUUSD,H1: Redis context created: #[52502464]
+1	17:28:44.623	account XAUUSD,H1: invalid pointer access in 'account.mq4' (30,4)
+3	17:28:44.623	account XAUUSD,H1: not initialized
+0	17:28:44.623	account XAUUSD,H1: uninit reason 8
+0	17:28:44.639	Expert account XAUUSD,H1: removed
+0	17:29:11.667	Expert account XAUUSD,H1: loaded successfully
+0	17:29:13.842	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	17:29:13.888	account XAUUSD,H1: Redis context created: #[158539368]
+0	17:29:13.888	account XAUUSD,H1: AUTH: false
+0	17:29:13.888	account XAUUSD,H1: initialized
+0	17:30:08.588	account XAUUSD,H1: uninit reason 2
+0	17:30:08.601	Expert account XAUUSD,H1: removed
+0	17:30:08.601	Expert account XAUUSD,H1: loaded successfully
+0	17:30:08.649	account XAUUSD,H1: Redis context created: #[158539528]
+0	17:30:08.649	account XAUUSD,H1: AUTH: false
+0	17:30:08.649	account XAUUSD,H1: SELECT: true
+0	17:30:08.649	account XAUUSD,H1: initialized
+0	17:31:08.035	account XAUUSD,H1: uninit reason 2
+0	17:31:08.035	Expert account XAUUSD,H1: removed
+0	17:31:08.051	Expert account XAUUSD,H1: loaded successfully
+0	17:31:08.549	account XAUUSD,H1: Redis context created: #[155253432]
+0	17:31:08.549	account XAUUSD,H1: 
+0	17:31:08.549	account XAUUSD,H1: Hello!
+0	17:31:08.549	account XAUUSD,H1: initialized
+0	17:45:42.936	account XAUUSD,H1: uninit reason 2
+3	17:45:42.936	account XAUUSD,H1: 1 undeleted objects left
+3	17:45:42.936	account XAUUSD,H1: 1 object of type RedisReply left
+3	17:45:42.936	account XAUUSD,H1: 84 bytes of leaked memory
+0	17:45:42.936	Expert account XAUUSD,H1: removed
+0	17:45:42.952	Expert account XAUUSD,H1: loaded successfully
+0	17:45:42.983	account XAUUSD,H1: Redis context created: #[158384680]
+0	17:45:42.983	account XAUUSD,H1: account:760386220:orders_data
+0	17:45:42.983	account XAUUSD,H1: initialized
+0	17:48:03.891	account XAUUSD,H1: uninit reason 2
+0	17:48:03.891	Expert account XAUUSD,H1: removed
+0	17:48:03.906	Expert account XAUUSD,H1: loaded successfully
+0	17:48:04.341	account XAUUSD,H1: Redis context created: #[158381160]
+0	17:48:04.341	account XAUUSD,H1: account:760386220:orders_data
+0	17:48:04.341	account XAUUSD,H1: series:XAUUSD:1:data
+0	17:48:04.341	account XAUUSD,H1: account:760386220:data
+0	17:48:04.341	account XAUUSD,H1: series:XAUUSD:60:data
+0	17:48:04.341	account XAUUSD,H1: initialized
+0	17:54:26.584	account XAUUSD,H1: uninit reason 2
+0	17:54:26.601	Expert account XAUUSD,H1: removed
+0	17:54:26.614	Expert account XAUUSD,H1: loaded successfully
+0	17:54:26.646	account XAUUSD,H1: Redis context created: #[158382280]
+0	17:54:26.646	account XAUUSD,H1: Context is empty.
+0	17:54:26.646	account XAUUSD,H1: initialized
+0	18:15:50.825	account XAUUSD,H1: uninit reason 2
+3	18:15:50.825	account XAUUSD,H1: 1 undeleted objects left
+3	18:15:50.825	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:15:50.825	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:15:50.840	Expert account XAUUSD,H1: removed
+0	18:15:50.840	Expert account XAUUSD,H1: loaded successfully
+0	18:15:50.904	account XAUUSD,H1: Redis context created: #[158383400]
+1	18:15:50.904	account XAUUSD,H1: array out of range in 'account.mq4' (34,8)
+3	18:15:50.904	account XAUUSD,H1: not initialized
+0	18:15:50.904	account XAUUSD,H1: uninit reason 8
+0	18:15:50.904	Expert account XAUUSD,H1: removed
+0	18:17:01.438	Expert account XAUUSD,H1: loaded successfully
+0	18:17:03.000	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:17:03.033	account XAUUSD,H1: Redis context created: #[158384520]
+0	18:17:03.033	account XAUUSD,H1: account:760386220:data
+0	18:17:03.033	account XAUUSD,H1: initialized
+0	18:19:02.820	account XAUUSD,H1: uninit reason 2
+3	18:19:02.820	account XAUUSD,H1: 1 undeleted objects left
+3	18:19:02.820	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:19:02.820	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:19:02.820	Expert account XAUUSD,H1: removed
+0	18:19:02.836	Expert account XAUUSD,H1: loaded successfully
+0	18:19:02.869	account XAUUSD,H1: Redis context created: #[158381960]
+0	18:19:02.869	account XAUUSD,H1: account:(non-string passed):data
+0	18:19:02.869	account XAUUSD,H1: initialized
+0	18:19:18.290	account XAUUSD,H1: uninit reason 2
+3	18:19:18.290	account XAUUSD,H1: 1 undeleted objects left
+3	18:19:18.290	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:19:18.290	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:19:18.290	Expert account XAUUSD,H1: removed
+0	18:19:18.306	Expert account XAUUSD,H1: loaded successfully
+0	18:19:18.335	account XAUUSD,H1: Redis context created: #[158382600]
+0	18:19:18.335	account XAUUSD,H1: account:760386220:data
+0	18:19:18.335	account XAUUSD,H1: initialized
+0	18:28:05.401	account XAUUSD,H1: uninit reason 2
+3	18:28:05.401	account XAUUSD,H1: 1 undeleted objects left
+3	18:28:05.401	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:28:05.401	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:28:05.401	Expert account XAUUSD,H1: removed
+0	18:28:05.417	Expert account XAUUSD,H1: loaded successfully
+0	18:28:05.434	account XAUUSD,H1: Redis context created: #[158382920]
+0	18:28:05.434	account XAUUSD,H1: account:760386220:data
+0	18:28:05.434	account XAUUSD,H1: initialized
+0	18:28:12.527	account XAUUSD,H1: uninit reason 1
+1	18:28:12.527	account XAUUSD,H1: invalid pointer access in 'RedisBase.mqh' (82,22)
+0	18:28:12.558	Expert account XAUUSD,H1: removed
+0	18:28:12.558	Expert account XAUUSD,H1: loaded successfully
+0	18:28:26.939	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:28:26.986	account XAUUSD,H1: Redis context created: #[158383880]
+0	18:28:26.986	account XAUUSD,H1: account:760386220:data
+0	18:28:26.986	account XAUUSD,H1: initialized
+0	18:28:34.096	account XAUUSD,H1: uninit reason 1
+1	18:28:34.096	account XAUUSD,H1: invalid pointer access in 'RedisBase.mqh' (82,22)
+0	18:28:34.111	Expert account XAUUSD,H1: removed
+0	18:28:34.128	Expert account XAUUSD,H1: loaded successfully
+0	18:28:37.018	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:28:37.065	account XAUUSD,H1: Redis context created: #[158382440]
+0	18:28:37.065	account XAUUSD,H1: account:760386220:data
+0	18:28:37.065	account XAUUSD,H1: initialized
+0	18:29:15.009	account XAUUSD,H1: uninit reason 2
+1	18:29:15.009	account XAUUSD,H1: invalid pointer access in 'RedisBase.mqh' (82,22)
+0	18:29:15.009	Expert account XAUUSD,H1: removed
+0	18:29:15.022	Expert account XAUUSD,H1: loaded successfully
+0	18:29:15.054	account XAUUSD,H1: Redis context created: #[158383720]
+0	18:29:15.054	account XAUUSD,H1: account:760386220:data
+0	18:29:15.054	account XAUUSD,H1: initialized
+0	18:29:21.913	account XAUUSD,H1: uninit reason 1
+1	18:29:21.913	account XAUUSD,H1: invalid pointer access in 'RedisBase.mqh' (82,22)
+0	18:29:21.929	Expert account XAUUSD,H1: removed
+0	18:29:21.946	Expert account XAUUSD,H1: loaded successfully
+0	18:29:25.069	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:29:25.101	account XAUUSD,H1: Redis context created: #[158384040]
+0	18:29:25.101	account XAUUSD,H1: account:760386220:data
+0	18:29:25.101	account XAUUSD,H1: initialized
+0	18:29:38.163	account XAUUSD,H1: uninit reason 2
+1	18:29:38.163	account XAUUSD,H1: invalid pointer access in 'RedisBase.mqh' (82,22)
+0	18:29:38.163	Expert account XAUUSD,H1: removed
+0	18:29:38.179	Expert account XAUUSD,H1: loaded successfully
+0	18:29:38.210	account XAUUSD,H1: Redis context created: #[158382120]
+0	18:29:38.210	account XAUUSD,H1: account:760386220:data
+0	18:29:38.210	account XAUUSD,H1: initialized
+0	18:29:42.429	account XAUUSD,H1: uninit reason 1
+3	18:29:42.461	account XAUUSD,H1: 1 undeleted objects left
+3	18:29:42.461	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:29:42.461	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:29:42.461	Expert account XAUUSD,H1: removed
+0	18:29:42.475	Expert account XAUUSD,H1: loaded successfully
+0	18:29:45.805	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:29:45.837	account XAUUSD,H1: Redis context created: #[158383080]
+0	18:29:45.837	account XAUUSD,H1: account:760386220:data
+0	18:29:45.837	account XAUUSD,H1: initialized
+0	18:31:35.311	account XAUUSD,H1: uninit reason 2
+3	18:31:35.311	account XAUUSD,H1: 1 undeleted objects left
+3	18:31:35.311	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:31:35.311	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:31:35.311	Expert account XAUUSD,H1: removed
+0	18:31:35.311	Expert account XAUUSD,H1: loaded successfully
+0	18:31:35.374	account XAUUSD,H1: Redis context created: #[158382760]
+0	18:31:35.374	account XAUUSD,H1: account:760386220:data
+1	18:31:35.374	account XAUUSD,H1: invalid pointer access in 'RedisBase.mqh' (82,22)
+3	18:31:35.374	account XAUUSD,H1: not initialized
+0	18:31:35.374	account XAUUSD,H1: uninit reason 8
+0	18:31:35.374	Expert account XAUUSD,H1: removed
+0	18:31:46.656	Expert account XAUUSD,H1: loaded successfully
+0	18:31:47.999	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:31:48.048	account XAUUSD,H1: Redis context created: #[158383240]
+0	18:31:48.048	account XAUUSD,H1: account:760386220:data
+1	18:31:48.048	account XAUUSD,H1: invalid pointer access in 'RedisBase.mqh' (82,22)
+3	18:31:48.048	account XAUUSD,H1: not initialized
+0	18:31:48.048	account XAUUSD,H1: uninit reason 8
+0	18:31:48.048	Expert account XAUUSD,H1: removed
+0	18:34:19.144	Expert account XAUUSD,H1: loaded successfully
+0	18:34:20.553	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:34:20.833	account XAUUSD,H1: Redis context created: #[158384200]
+0	18:34:20.833	account XAUUSD,H1: account:760386220:data
+0	18:34:20.833	account XAUUSD,H1: initialized
+0	18:34:27.241	account XAUUSD,H1: uninit reason 1
+3	18:34:27.271	account XAUUSD,H1: 1 undeleted objects left
+3	18:34:27.271	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:34:27.271	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:34:27.271	Expert account XAUUSD,H1: removed
+0	18:34:27.287	Expert account XAUUSD,H1: loaded successfully
+0	18:34:30.396	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:34:30.428	account XAUUSD,H1: Redis context created: #[158383560]
+0	18:34:30.428	account XAUUSD,H1: account:760386220:data
+0	18:34:30.428	account XAUUSD,H1: initialized
+0	18:35:15.141	account XAUUSD,H1: uninit reason 2
+3	18:35:15.141	account XAUUSD,H1: 1 undeleted objects left
+3	18:35:15.141	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:35:15.141	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:35:15.141	Expert account XAUUSD,H1: removed
+0	18:35:15.141	Expert account XAUUSD,H1: loaded successfully
+0	18:35:15.205	account XAUUSD,H1: Redis context created: #[158384360]
+0	18:35:15.205	account XAUUSD,H1: account:760386220:data
+0	18:35:15.205	account XAUUSD,H1: initialized
+0	18:35:21.204	account XAUUSD,H1: uninit reason 1
+3	18:35:21.219	account XAUUSD,H1: 1 undeleted objects left
+3	18:35:21.219	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:35:21.219	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:35:21.219	Expert account XAUUSD,H1: removed
+0	18:35:21.219	Expert account XAUUSD,H1: loaded successfully
+0	18:35:22.157	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:35:22.219	account XAUUSD,H1: Redis context created: #[158384680]
+0	18:35:22.219	account XAUUSD,H1: account:760386220:data
+0	18:35:22.219	account XAUUSD,H1: initialized
+0	18:35:25.831	account XAUUSD,H1: uninit reason 1
+3	18:35:25.861	account XAUUSD,H1: 1 undeleted objects left
+3	18:35:25.861	account XAUUSD,H1: 1 object of type RedisContext left
+3	18:35:25.861	account XAUUSD,H1: 20 bytes of leaked memory
+0	18:35:25.861	Expert account XAUUSD,H1: removed
+0	18:35:25.877	Expert account XAUUSD,H1: loaded successfully
+0	18:35:28.376	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
+0	18:35:28.439	account XAUUSD,H1: Redis context created: #[158376840]
+0	18:35:28.439	account XAUUSD,H1: account:760386220:data
+0	18:35:28.439	account XAUUSD,H1: initialized
+0	18:35:41.974	account XAUUSD,H1: uninit reason 9
+3	18:35:41.974	account XAUUSD,H1: 1 undeleted objects left
+3	18:35:41.974	account XAUUSD,H1: 1 object of type RedisContext left
+0	18:35:42.818	Expert account XAUUSD,H1: removed
+0	18:35:54.897	Expert account XAUUSD,H1: loaded successfully
+0	18:35:54.897	account XAUUSD,H1 inputs: address=192.168.0.16; port=6379; password=; db=0; expire=60; 
